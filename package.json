@@ -3,20 +3,19 @@
   "name": "CFUW",
   "matchdep": "~0.1.2",
   "version": "1.0.0",
-  "description": "backbone with data-driven underscore templates",
+  "description": "XML to JSON for Future Work",
   "main": "scripts/config.js",
   "scripts": {
     "test": "main.gruntTest()"
   },
   "repository": {
     "type": "git",
-  "url": "https://github.com/jvmqueue/cfuw"
+  "url": "https://github.com/jvmqueue/xml"
   },
   "keywords": [
     "xml",
     "json",
-    "convert",
-    "underscore"
+    "convert"
   ],
   "author": "glenn",
   "devDependencies": {
@@ -31,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/jvmqueue/convertXmlToJson/issues"
   },
-  "homepage": "http://cfuw-saskatoon.org/",
+  "homepage": "http://jvmqueue.com",
   "jshint": {
     "options": {
       "jshintrc": ".jshintrc"
