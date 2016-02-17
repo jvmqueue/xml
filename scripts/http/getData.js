@@ -1,4 +1,4 @@
-/* **** https://www.sitepoint.com/community/t/recursive-function-to-loop-through-xml-dom/3293 */
+/*  https://www.sitepoint.com/community/t/recursive-function-to-loop-through-xml-dom/3293 */
 
 define(['jQuery', 'util'], function($, util, undefined){
     'use strict';
